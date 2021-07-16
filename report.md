@@ -67,7 +67,7 @@ Collaborative filtering recommender systems rely on particular actions user perf
 
 Model based CF systems, on the other hand, use ML models that have some parameter optimization. Such models are tested on this dataset as well and test RMSE metric plot is given below:
 
-![CF RMSE](./assets/cf_rmse_barplot.png)
+![CF RMSE](./assets/cf_rmse_barplot.PNG)
 
 
 ### Hybrid model

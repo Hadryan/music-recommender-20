@@ -8,6 +8,8 @@ Install dependencies using
 pip install -r requirements.txt
 ```
 
+For seeing a high overview of what research was done and also results of the approaches applied, see [this report](./report.md)
+
 ### Author
 
 Sava Katić R2-24/2020
